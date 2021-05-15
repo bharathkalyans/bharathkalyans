@@ -11,9 +11,11 @@
 
 >[LinkedIn](https://www.linkedin/in/bharathkalyans/)
 
+>[Geeks for Geeks](https://auth.geeksforgeeks.org/user/bharathkalyans/profile)
+
 >[LeetCode](https://leetcode.com/bharathkalyans/)
 
->[Geeks for Geeks](https://auth.geeksforgeeks.org/user/bharathkalyans/profile)
+
 
 
 
