@@ -9,7 +9,7 @@
 
 ## Social Profiles:
 
->[LinkedIn](https://www.linkedin/in/bharathkalyans/)
+>[LinkedIn](https://www.linkedin.com/in/bharathkalyans/)
 
 >[Geeks for Geeks](https://auth.geeksforgeeks.org/user/bharathkalyans/profile)
 
