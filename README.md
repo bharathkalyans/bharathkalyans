@@ -2,9 +2,9 @@
 # 👋🏽 Hi, I'm Bharath 👨🏽‍💻
 
 
-## I am a CS UnderGrad @CIT, Gubbi!
+### I am a CS UnderGrad @CIT, Gubbi!
 
-- ### 🌱 I’m currently learning Android Development.
+- #### 🌱 I’m currently learning Android Development.
 
 
 ## Social Profiles:
