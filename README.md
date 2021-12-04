@@ -1,17 +1,12 @@
 
-# 👋🏽 Hi, I'm Bharath 👨🏽‍💻
-
-
-### I am a CS UnderGrad @CIT, Gubbi!
-
-
 ## Social Profiles:
 
 >[LinkedIn](https://www.linkedin.com/in/bharathkalyans/)
 
+>[Leet Code](https://leetcode.com/bharathkalyans/)
+
 >[Geeks for Geeks](https://auth.geeksforgeeks.org/user/bharathkalyans/profile)
 
->[LeetCode](https://leetcode.com/bharathkalyans/)
 
 
 
