@@ -1,9 +1,10 @@
 ![MasterHead](./images/header%20image.svg)
 
 <h1 align="center">Hi 👋, I'm Bharath</h1>
-<h3 align="center">A passionate Full Stack Developer!</h3>
+<h3 align="center">Full Stack Developer from 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+[//]: # (<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">)
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xT5LMTwuWXEb7G8pTa/giphy.gif">
 
 - 🌱 I’m currently learning **Angular Advanced**
 
