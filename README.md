@@ -1,4 +1,4 @@
-
+![header image](./images/header%20image.svg)
 
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <h3 align="center">A passionate Full Stack Developer!</h3>
