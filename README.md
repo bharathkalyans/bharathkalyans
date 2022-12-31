@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bharath</h1>
-<h3 align="center">Full Stack Developer 🇮🇳</h3>
+<h3 align="center">Full Stack Developer from 🇮🇳</h3>
 
 [//]: # (<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">)
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bharathkalyans/bharathkalyans/278b30fb4be35ffe788b23cc907c92842bd78379/images/header%20image.svg">
+
 - 🌱 I’m currently learning **Angular Advanced**
 
 - 👯 I’m looking to collaborate on **Open Source & Freelance projects**
