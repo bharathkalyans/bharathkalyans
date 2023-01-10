@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharath</h1>
-<h3 align="center">Full Stack Developer from 🇮🇳</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 [//]: # (<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">)
 
@@ -18,11 +18,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharathkalyans" height="30" width="40" /></a>&nbsp
-<a href="https://twitter.com/bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharathkalyans" height="30" width="40" /></a>&nbsp
 <a href="https://stackoverflow.com/users/12285013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12285013" height="30" width="40" /></a>&nbsp
+<a href="https://twitter.com/bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharathkalyans" height="30" width="40" /></a>&nbsp
 <a href="https://www.leetcode.com/bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bharathkalyans" height="30" width="40" /></a>&nbsp
 <a href="https://hashnode.com/@bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bharathkalyans" height="30" width="40" /></a>&nbsp
-<a href="https://dev.to/bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bharathkalyans" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bharathkalyans" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,9 +49,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharathkalyans&show_icons=true&locale=en&layout=compact" alt="bharathkalyans" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharathkalyans&show_icons=true&locale=en&layout=compact" alt="bharathkalyans" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathkalyans&show_icons=true&locale=en" alt="bharathkalyans" /></p>
-
+ -->
 
 
