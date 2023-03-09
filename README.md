@@ -55,3 +55,9 @@
  -->
 
 
+<h3 align="left">Open Source Contributions:</h3>
+
+| Project Name         | Role                                |                           Pull Requests                            | 
+|:---------------------|-------------------------------------|:------------------------------------------------------------------:|
+| Drifty               | Code Refactoring                    |    [LINK](https://github.com/SaptarshiSarkar12/Drifty/pull/193)    |
+| Java Design Patterns | Removed Unnecessary functionalities | [LINK](https://github.com/iluwatar/java-design-patterns/pull/2467) |
