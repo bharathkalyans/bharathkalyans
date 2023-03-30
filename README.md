@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bharathkalyans/bharathkalyans/278b30fb4be35ffe788b23cc907c92842bd78379/images/header%20image.svg">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React & Next JS**
 
 - 👯 I’m looking to collaborate on **Open Source & Freelance projects**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sbharath35@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharathkalyans" height="30" width="40" /></a>&nbsp
 <a href="https://stackoverflow.com/users/12285013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12285013" height="30" width="40" /></a>&nbsp
@@ -25,7 +25,7 @@
 <!-- <a href="https://dev.to/bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bharathkalyans" height="30" width="40" /></a> -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> &nbsp
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> &nbsp 
@@ -55,9 +55,9 @@
  -->
 
 
-<h3 align="left">Open Source Contributions:</h3>
+<h3 align="left">Open Source Contributions</h3>
 
-| Project Name         | Role                                |                           Pull Requests                            | 
-|:---------------------|-------------------------------------|:------------------------------------------------------------------:|
-| Drifty               | Code Refactoring                    |    [LINK](https://github.com/SaptarshiSarkar12/Drifty/pull/193)    |
-| Java Design Patterns | Removed Unnecessary functionalities | [LINK](https://github.com/iluwatar/java-design-patterns/pull/2467) |
+| 🎁️ Project Name     | ⭐️ Stars  | 📚 Forks  |                                              ✨ Contribution                                               | 
+|:---------------------|:---------:|:---------:|:---------------------------------------------------------------------------------------------------------:|
+| Drifty               |  **68**   |  **66**   | [removed redundant code and other refactoring #193](https://github.com/SaptarshiSarkar12/Drifty/pull/193) |
+| Java Design Patterns | **80.5k** | **24.8k** |        [fix: Issue #2459 fixed #2467](https://github.com/iluwatar/java-design-patterns/pull/2467)         |
