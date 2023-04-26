@@ -5,13 +5,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bharathkalyans/bharathkalyans/278b30fb4be35ffe788b23cc907c92842bd78379/images/header%20image.svg">
 
-- 🌱 I’m currently learning **React, Next JS & Web3**
+- 🌱 I’m currently learning **Next JS & Web3**
 
 - 👯 I’m looking to collaborate on **Open Source & Freelance projects**
 
 - 📝 I regularly write articles on [hashnode.com/@bharathkalyans](https://hashnode.com/@bharathkalyans)
 
-- 💬 Ask me about **Java, Spring Boot, PostgreSQL, Node JS, MongoDB, JavaScript & Angular**
+- 💬 Ask me about **React, NodeJS, Express JS, Java, Spring Boot, PostgreSQL, MongoDB, JavaScript**
 
 - 📫 How to reach me **sbharath35@gmail.com**
 
