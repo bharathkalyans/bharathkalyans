@@ -60,8 +60,10 @@
 <h3 align="left">Open Source Contributions</h3>
 
 | 🎁️ Project Name        | ⭐️ Stars  | 📚 Forks  |                                                 ✨ Contribution                                                  | 
-|:------------------------|:---------:|:---------:|:---------------------------------------------------------------------------------------------------------------:|
+|:------------------------|:---------:|:---------:|:---------------------------------------------------------------------------------------------------------------|
+| FlagSmith               |  **2.4k** |  **173**  |    [fix: Fixes #2201 Displays NotFoundPage component on unreachable routes #2213](https://github.com/Flagsmith/flagsmith/issues/2201#event-9302647836)|  
 | Java Design Patterns    | **80.5k** | **24.8k** |           [fix: Issue #2459 fixed #2467](https://github.com/iluwatar/java-design-patterns/pull/2467)            |
 | LinkFree (Eddie Jaoude) | **3.3k**  | **2.5k**  | [fix: Fixed issue#5828 Updated UI of the Search bar](https://github.com/EddieHubCommunity/LinkFree/issues/5828) |
-| Drifty                  |  **68**   |  **66**   |    [removed redundant code and other refactoring #193](https://github.com/SaptarshiSarkar12/Drifty/pull/193)    |
+| Drifty                  |  **68**   |  **66**   |    [refactor: Removed redundant code and other refactoring #193](https://github.com/SaptarshiSarkar12/Drifty/pull/193)    |
+
 
