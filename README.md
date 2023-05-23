@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bharathkalyans/bharathkalyans/278b30fb4be35ffe788b23cc907c92842bd78379/images/header%20image.svg">
 
-- 🌱 I’m currently learning **Next JS & Web3**
+- 🌱 I’m currently learning **Next JS**
 
 - 👯 I’m looking to collaborate on **Open Source & Freelance projects**
 
@@ -28,6 +28,7 @@
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp
@@ -59,11 +60,10 @@
 
 <h3 align="left">Open Source Contributions</h3>
 
-| 🎁️ Project Name        | ⭐️ Stars  | 📚 Forks  |                                                 ✨ Contribution                                                  | 
-|:------------------------|:---------:|:---------:|:---------------------------------------------------------------------------------------------------------------|
-| FlagSmith               |  **2.4k** |  **173**  |    [fix: Fixes #2201 Displays NotFoundPage component on unreachable routes #2213](https://github.com/Flagsmith/flagsmith/issues/2201#event-9302647836)|  
-| Java Design Patterns    | **80.5k** | **24.8k** |           [fix: Issue #2459 fixed #2467](https://github.com/iluwatar/java-design-patterns/pull/2467)            |
-| LinkFree (Eddie Jaoude) | **3.9k**  | **3k**  | [fix: Fixed issue#5828 Updated UI of the Search bar](https://github.com/EddieHubCommunity/LinkFree/issues/5828) |
-| Drifty                  |  **68**   |  **66**   |    [refactor: Removed redundant code and other refactoring #193](https://github.com/SaptarshiSarkar12/Drifty/pull/193)    |
-
-
+| 🎁️ Project Name        | ⭐️ Stars  | 📚 Forks  | ✨ Contribution                                                                                                                                      | 
+|:------------------------|:---------:|:---------:|:----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Jest                    | **42kk**  | **6.4k**  | [fix: Fixes #14146 Twitter Navigation URL #14154](https://github.com/jestjs/jest/pull/14154)                                                        |
+| FlagSmith               | **2.4k**  |  **173**  | [fix: Fixes #2201 Displays NotFoundPage component on unreachable routes #2213](https://github.com/Flagsmith/flagsmith/issues/2201#event-9302647836) |  
+| Java Design Patterns    | **80.5k** | **24.8k** | [fix: Issue #2459 fixed #2467](https://github.com/iluwatar/java-design-patterns/pull/2467)                                                          |
+| LinkFree (Eddie Jaoude) | **3.9k**  |  **3k**   | [fix: Fixed issue#5828 Updated UI of the Search bar  #5828](https://github.com/EddieHubCommunity/LinkFree/issues/5828)                              |
+| Drifty                  |  **68**   |  **66**   | [refactor: Removed redundant code and other refactoring #193](https://github.com/SaptarshiSarkar12/Drifty/pull/193)                                 |
