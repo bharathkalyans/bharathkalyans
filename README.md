@@ -64,6 +64,6 @@
 |:------------------------|:---------:|:---------:|:----------------------------------------------------------------------------------------------------------------------------------------------------|
 | Jest                    |  **42k**  | **6.4k**  | [fix: Fixes #14146 Twitter Navigation URL #14154](https://github.com/jestjs/jest/pull/14154)                                                        |
 | FlagSmith               | **2.4k**  |  **173**  | [fix: Fixes #2201 Displays NotFoundPage component on unreachable routes #2213](https://github.com/Flagsmith/flagsmith/issues/2201#event-9302647836) |  
-| Java Design Patterns    | **80.5k** | **24.8k** | [fix: Issue #2459 fixed #2467](https://github.com/iluwatar/java-design-patterns/pull/2467)                                                          |
 | LinkFree (Eddie Jaoude) | **3.9k**  |  **3k**   | [fix: Fixed issue#5828 Updated UI of the Search bar  #5828](https://github.com/EddieHubCommunity/LinkFree/issues/5828)                              |
+| Java Design Patterns    | **80.5k** | **24.8k** | [fix: Issue #2459 fixed #2467](https://github.com/iluwatar/java-design-patterns/pull/2467)                                                          |
 | Drifty                  |  **68**   |  **66**   | [refactor: Removed redundant code and other refactoring #193](https://github.com/SaptarshiSarkar12/Drifty/pull/193)                                 |
