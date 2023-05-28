@@ -62,7 +62,7 @@
 
 | 🎁️ Project Name                           | ⭐️ Stars  | 📚 Forks  | ✨ Contribution                                                                                                                                      | 
 |:-------------------------------------------|:---------:|:---------:|:----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Jest  [@meta](https://github.com/facebook) |  **42k**  | **6.4k**  | [fix: Fixes #14146 Twitter Navigation URL #14154](https://github.com/jestjs/jest/pull/14154)                                                        |
+| Jest by [@meta](https://github.com/facebook) |  **42k**  | **6.4k**  | [fix: Fixes #14146 Twitter Navigation URL #14154](https://github.com/jestjs/jest/pull/14154)                                                        |
 | FlagSmith                                  | **2.4k**  |  **173**  | [fix: Fixes #2201 Displays NotFoundPage component on unreachable routes #2213](https://github.com/Flagsmith/flagsmith/issues/2201#event-9302647836) |  
 | LinkFree                                   | **3.9k**  |  **3k**   | [fix: Fixed issue#5828 Updated UI of the Search bar  #5828](https://github.com/EddieHubCommunity/LinkFree/issues/5828)                              |
 | DevFind                                    |  **100**  |  **106**  | [feat: update profile list on character change #200](https://github.com/shyamtawli/devFind/pull/200#event-9356935037)                               |
