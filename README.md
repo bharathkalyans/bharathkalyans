@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-[//]: # (<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">)
+[//]: # '<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">'
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bharathkalyans/bharathkalyans/278b30fb4be35ffe788b23cc907c92842bd78379/images/header%20image.svg">
 
@@ -22,7 +22,8 @@
 <a href="https://twitter.com/bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharathkalyans" height="30" width="40" /></a>&nbsp
 <a href="https://www.leetcode.com/bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bharathkalyans" height="30" width="40" /></a>&nbsp
 
-[//]: # (<a href="https://hashnode.com/@bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bharathkalyans" height="30" width="40" /></a>&nbsp)
+[//]: # '<a href="https://hashnode.com/@bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bharathkalyans" height="30" width="40" /></a> '
+
 <!-- <a href="https://dev.to/bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bharathkalyans" height="30" width="40" /></a> -->
 </p>
 
@@ -51,20 +52,19 @@
 
 </p>
 
-
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharathkalyans&show_icons=true&locale=en&layout=compact" alt="bharathkalyans" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathkalyans&show_icons=true&locale=en" alt="bharathkalyans" /></p>
  -->
 
+<h3 align="center">Open Source Contributions</h3>
 
-<h3 align="left">Open Source Contributions</h3>
-
-| 🎁️ Project Name                           | ⭐️ Stars  | 📚 Forks  | ✨ Contribution                                                                                                                                      | 
-|:-------------------------------------------|:---------:|:---------:|:----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🎁️ Project Name                                | ⭐️ Stars | 📚 Forks  | ✨ Contribution                                                                                                                                     |
+| :---------------------------------------------- | :-------: | :-------: | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Jest JS by [@meta](https://github.com/facebook) |  **42k**  | **6.4k**  | [fix: Fixes #14146 Twitter Navigation URL #14154](https://github.com/jestjs/jest/pull/14154)                                                        |
-| FlagSmith                                  | **2.4k**  |  **173**  | [fix: Fixes #2201 Displays NotFoundPage component on unreachable routes #2213](https://github.com/Flagsmith/flagsmith/issues/2201#event-9302647836) |  
-| LinkFree                                   | **3.9k**  |  **3k**   | [fix: Fixed issue#5828 Updated UI of the Search bar  #5828](https://github.com/EddieHubCommunity/LinkFree/issues/5828)                              |
-| DevFind                                    |  **100**  |  **106**  | [feat: update profile list on character change #200](https://github.com/shyamtawli/devFind/pull/200#event-9356935037)                               |
-| Java Design Patterns                       | **80.5k** | **24.8k** | [fix: Issue #2459 fixed #2467](https://github.com/iluwatar/java-design-patterns/pull/2467)                                                          |
-| Drifty                                     |  **68**   |  **66**   | [refactor: Removed redundant code and other refactoring #193](https://github.com/SaptarshiSarkar12/Drifty/pull/193)                                 |
+| Unlogged Inc.                                   |  **17**   |   **3**   | [refactor: refactoring of the code base #5](https://github.com/unloggedio/unlogged-sdk/issues/5)                                                    |
+| FlagSmith                                       | **2.4k**  |  **173**  | [fix: Fixes #2201 Displays NotFoundPage component on unreachable routes #2213](https://github.com/Flagsmith/flagsmith/issues/2201#event-9302647836) |
+| LinkFree                                        | **3.9k**  |  **3k**   | [fix: Fixed issue#5828 Updated UI of the Search bar #5828](https://github.com/EddieHubCommunity/LinkFree/issues/5828)                               |
+| DevFind                                         |  **100**  |  **106**  | [feat: update profile list on character change #200](https://github.com/shyamtawli/devFind/pull/200#event-9356935037)                               |
+| Java Design Patterns                            | **80.5k** | **24.8k** | [fix: Issue #2459 fixed #2467](https://github.com/iluwatar/java-design-patterns/pull/2467)                                                          |
+| Drifty                                          |  **68**   |  **66**   | [refactor: Removed redundant code and other refactoring #193](https://github.com/SaptarshiSarkar12/Drifty/pull/193)                                 |
