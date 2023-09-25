@@ -59,12 +59,15 @@
 
 <h3 align="center">Open Source Contributions</h3>
 
-| 🎁️ Project Name                                | ⭐️ Stars | 📚 Forks  | ✨ Contribution                                                                                                                                     |
-| :---------------------------------------------- | :-------: | :-------: | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Jest JS by [@meta](https://github.com/facebook) |  **42k**  | **6.4k**  | [fix: Fixes #14146 Twitter Navigation URL #14154](https://github.com/jestjs/jest/pull/14154)                                                        |
+| 🎁️ Project Name                                | ⭐️ Stars  | 📚 Forks  | ✨ Contribution                                                                                                                                      |
+|:------------------------------------------------|:---------:|:---------:|:----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Jest JS by [@meta](https://github.com/facebook) | **42.8k** | **6.5k**  | [fix: Fixes #14146 Twitter Navigation URL #14154](https://github.com/jestjs/jest/pull/14154)                                                        |
+| Free Hit                                        |  **220**  |  **284**  | [feat: dockerized the application #1629](https://github.com/JasonDsouza212/free-hit/pull/1630#pullrequestreview-1641455096)                         |
 | Unlogged Inc.                                   |  **17**   |   **3**   | [refactor: refactoring of the code base #5](https://github.com/unloggedio/unlogged-sdk/issues/5)                                                    |
-| FlagSmith                                       | **2.4k**  |  **173**  | [fix: Fixes #2201 Displays NotFoundPage component on unreachable routes #2213](https://github.com/Flagsmith/flagsmith/issues/2201#event-9302647836) |
-| LinkFree                                        | **3.9k**  |  **3k**   | [fix: Fixed issue#5828 Updated UI of the Search bar #5828](https://github.com/EddieHubCommunity/LinkFree/issues/5828)                               |
-| DevFind                                         |  **100**  |  **106**  | [feat: update profile list on character change #200](https://github.com/shyamtawli/devFind/pull/200#event-9356935037)                               |
-| Java Design Patterns                            | **80.5k** | **24.8k** | [fix: Issue #2459 fixed #2467](https://github.com/iluwatar/java-design-patterns/pull/2467)                                                          |
-| Drifty                                          |  **68**   |  **66**   | [refactor: Removed redundant code and other refactoring #193](https://github.com/SaptarshiSarkar12/Drifty/pull/193)                                 |
+| FlagSmith                                       | **2.7k**  |  **225**  | [fix: Fixes #2201 Displays NotFoundPage component on unreachable routes #2213](https://github.com/Flagsmith/flagsmith/issues/2201#event-9302647836) |
+| LinkFree (Bio Drop)                             | **4.7k**  | **3.6k**  | [fix: Fixed issue#5828 Updated UI of the Search bar #5828](https://github.com/EddieHubCommunity/LinkFree/issues/5828)                               |
+| DevFind                                         |  **211**  |  **210**  | [feat: update profile list on character change #200](https://github.com/shyamtawli/devFind/pull/200#event-9356935037)                               |
+| Java Design Patterns                            | **83.8k** | **25.5k** | [fix: Issue #2459 fixed #2467](https://github.com/iluwatar/java-design-patterns/pull/2467)                                                          |
+| Drifty                                          |  **89**   |  **80**   | [refactor: Removed redundant code and other refactoring #193](https://github.com/SaptarshiSarkar12/Drifty/pull/193)                                 |
+
+
