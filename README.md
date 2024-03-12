@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bharathkalyans/bharathkalyans/278b30fb4be35ffe788b23cc907c92842bd78379/images/header%20image.svg">
 
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **System Designing**
 
 - 👯 I’m looking to collaborate on **Open Source & Freelance projects**
 
