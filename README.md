@@ -70,3 +70,6 @@
 | DevFind                                         |  **211**  |  **210**  | [feat: update profile list on character change #200](https://github.com/shyamtawli/devFind/pull/200#event-9356935037)                                                                                                        |
 | Java Design Patterns                            | **83.8k** | **25.5k** | [fix: Issue #2459 fixed #2467](https://github.com/iluwatar/java-design-patterns/pull/2467)                                                                                                                                   |
 | Drifty                                          |  **89**   |  **80**   | [refactor: Removed redundant code and other refactoring #193](https://github.com/SaptarshiSarkar12/Drifty/pull/193)                                                                                                          |
+
+
+
