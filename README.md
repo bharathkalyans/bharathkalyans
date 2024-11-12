@@ -6,13 +6,13 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bharathkalyans/bharathkalyans/278b30fb4be35ffe788b23cc907c92842bd78379/images/header%20image.svg">
 
 
-- 🌱 I’m currently learning **System Designing**
+- 🌱 Currently learning **System Designing**
 
-- 👯 I’m looking to collaborate on **Open Source & Freelance projects**
+- 👯 Looking to collaborate on **Interesting projects**
 
-- 📝 I regularly write articles on [hashnode.com/@bharathkalyans](https://hashnode.com/@bharathkalyans)
+[//]: # (- 📝 I regularly write articles on [hashnode.com/@bharathkalyans]&#40;https://hashnode.com/@bharathkalyans&#41;)
 
-- 💬 Ask me about **React, NodeJS, Express JS, Java, Spring Boot, PostgreSQL, MongoDB, JavaScript**
+- 💬 Ask me about **Spring Boot, NodeJS, React, PostgreSQL, Aerospike, GCP, Kubernetes, Grafana**
 
 - 📫 How to reach me **sbharath35@gmail.com**
 
@@ -20,9 +20,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharathkalyans" height="30" width="40" /></a>&nbsp
 <a href="https://stackoverflow.com/users/12285013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12285013" height="30" width="40" /></a>&nbsp
-<a href="https://twitter.com/bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharathkalyans" height="30" width="40" /></a>&nbsp
 <a href="https://www.leetcode.com/bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bharathkalyans" height="30" width="40" /></a>&nbsp
 
+[//]: # (<a href="https://twitter.com/bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharathkalyans" height="30" width="40" /></a>&nbsp)
 [//]: # '<a href="https://hashnode.com/@bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bharathkalyans" height="30" width="40" /></a> '
 
 <!-- <a href="https://dev.to/bharathkalyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bharathkalyans" height="30" width="40" /></a> -->
