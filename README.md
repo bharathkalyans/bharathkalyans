@@ -9,9 +9,9 @@
 <img align="right" alt="Coding" height="300" width="400" src="https://raw.githubusercontent.com/bharathkalyans/bharathkalyans/278b30fb4be35ffe788b23cc907c92842bd78379/images/header%20image.svg">
 
 ### 🛠️ Tech Stack
-- **Backend:** Spring Boot, Go, Node.js, Fast API
-- **Frontend:** React, TypeScript
-- **Databases:** PostgreSQL, MongoDB, Aerospike
+- **Backend:** Spring Boot, Go (Gin), Node JS, Fast API
+- **Frontend:** React
+- **Databases:** PostgreSQL, Aerospike
 - **Cloud & DevOps:** GCP, Kubernetes, Docker, Grafana
 
 <h3 align="left">Connect with me</h3>
