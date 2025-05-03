@@ -12,7 +12,7 @@
 - **Backend:** Spring Boot, Go, Node JS, Fast API
 - **Frontend:** React
 - **Databases:** PostgreSQL, Aerospike, MongoDB
-- **Cloud & DevOps:** GCP, Kubernetes, Docker, Grafana
+- **Cloud & DevOps:** AWS, GCP, Kubernetes, Docker, Grafana
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
